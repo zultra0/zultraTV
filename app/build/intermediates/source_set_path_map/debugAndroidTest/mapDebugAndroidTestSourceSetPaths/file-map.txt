@@ -1,0 +1,4 @@
+com.zultra.zultratv.test.app-androidTest-0 C:\Users\shaan\Downloads\zultraTV\app\build\generated\res\resValues\androidTest\debug
+com.zultra.zultratv.test.app-mergeDebugAndroidTestResources-1 C:\Users\shaan\Downloads\zultraTV\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.zultra.zultratv.test.app-mergeDebugAndroidTestResources-2 C:\Users\shaan\Downloads\zultraTV\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.zultra.zultratv.test.app-debugAndroidTest-3 C:\Users\shaan\Downloads\zultraTV\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

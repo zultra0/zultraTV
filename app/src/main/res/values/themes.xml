@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.ZultraTV" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#0B0B0E</item>
+    </style>
+</resources>
